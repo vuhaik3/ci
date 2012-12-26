@@ -22,7 +22,7 @@
 	// This is usefull only for these samples. A real application should use something like this:
 	// oFCKeditor.BasePath = '/fckeditor/' ;	// '/fckeditor/' is the default value.
 	var oFCKeditor = new FCKeditor( 'MyTextarea' ) ;
-	oFCKeditor.BasePath	= 'http://localhost/shoponline/public/js/fck/' ;
+	oFCKeditor.BasePath	= 'http://localhost/shopci/public/js/fck/' ;
 	oFCKeditor.ReplaceTextarea() ;
 }
     function comfirm_delete(){
